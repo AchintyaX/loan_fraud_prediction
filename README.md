@@ -38,6 +38,7 @@ In this case we are sticking to classical machine learning techniques because th
 3. test_data_processing.py - Contains Script for data cleaning of test data 
 4. df_test_fe.py - Contains script for feature selection and engineering applied on test data. 
 5. Model_development.ipynb - Note for experimentation with various machine learning models 
+6. ML_Artivatic_dataset/submission1.csv - submission of predictions 
 
 ## Tools used 
 
