@@ -39,6 +39,8 @@ In this case we are sticking to classical machine learning techniques because th
 4. df_test_fe.py - Contains script for feature selection and engineering applied on test data. 
 5. Model_development.ipynb - Note for experimentation with various machine learning models 
 6. ML_Artivatic_dataset/submission1.csv - submission of predictions 
+7. Feature_Development.ipynb - New iterration of the data clearning and feature enigneering work, because first version had errors which are affecting the performance of the machine learning model 
+8. Model_dev.ipynb - 20% improved performance in terms of the roc_auc_score after making changes in the data cleaning and engineering problems.
 
 ## Tools used 
 
@@ -47,4 +49,9 @@ In this case we are sticking to classical machine learning techniques because th
 3. Matplotlib
 4. xgboost
 5. scikit-learn 
+
+-------------------------------------------------------------------------------------------------
+## Update 
+
+After going through the data, found some errors that occurred in the preprocessing  process and got a jump of <b>20%</b> in terms of the performance of the same machine learning algorithms used in the past experimentation. 
 
